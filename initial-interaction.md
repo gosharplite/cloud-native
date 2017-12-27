@@ -30,3 +30,19 @@
     - Project first
     - [Identify personas](http://slides.eightypercent.net/kubecon-2017/index.html#5)
 
+<hr>
+
+- Transition from working with kernel directly to a distributed container environment.  
+  - OS, VM to container image, k8s.
+
+- DevOps
+  - [Ops: It's everyone's job now](https://goo.gl/aJ9MmD) - 28Jul'17 Charity Majors
+  - [Everyone is not Ops](https://goo.gl/MLKvkC) - 29Jul'17 Cindy Sridharan
+
+- [Kubernetes Kernels & Distros](https://goo.gl/Qxmn8f) - Tim Hockin, Michael Rubin, KubeCon'17
+
+<hr>
+
+- [Meditation Driven Development](https://www.ckwop.me.uk/Meditation-driven-development.html) - A satire, 15Feb'09
+
+- [Principles of Technology Leadership](https://www.evernote.com/shard/s673/sh/0291c9e6-9104-47c4-992e-2481998fd53e/328494e458e2c13a27263025ec3c5431) - Bryan Cantrill, 8Dec'17
