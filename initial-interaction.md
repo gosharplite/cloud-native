@@ -12,3 +12,11 @@
 
 - Cloud Native
   - [The Linux Foundation](https://www.linuxfoundation.org/)
+  - [CNCF](https://www.cncf.io/)
+  - [Heptio values](https://blog.heptio.com/our-values-8d897f016342)
+  - [CNCF charter](https://www.cncf.io/about/charter/)
+  - [CNCF TOC Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md)
+  - [Landscape](https://github.com/cncf/landscape)
+  - [End User Reference Architecture](https://docs.google.com/presentation/d/1uMw2wkK0ubmc3khxqIuxK_rLK_wN89tNCnK7gDmTGR8/edit#slide=id.g15843037bc_2_6)
+  
+  
