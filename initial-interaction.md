@@ -10,6 +10,8 @@
 
 <hr>
 
+- [CloudNativeCon Opening Keynote](https://www.youtube.com/watch?v=Z3aBWkNXnhw) - Dan Kohn
+
 - Cloud Native
   - [The Linux Foundation](https://www.linuxfoundation.org/)
   - [CNCF](https://www.cncf.io/)
