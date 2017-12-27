@@ -19,11 +19,14 @@
   - [Landscape](https://github.com/cncf/landscape)
   - [End User Reference Architecture](https://docs.google.com/presentation/d/1uMw2wkK0ubmc3khxqIuxK_rLK_wN89tNCnK7gDmTGR8/edit#slide=id.g15843037bc_2_6)
   
+<hr>
+  
 - [Kubernetes](https://kubernetes.io/) - Craig McLuckie, Joe Beda, Brendan Burns
-    - [Steering Committee](https://github.com/kubernetes/steering) ([video](https://www.youtube.com/watch?v=YAzgJRQxsdc&t=169s))
-    - SIGs and Working Groups
-    - What is Kubernetes?  - Brian Grant
-    - The Road Ahead on the Kubernetes Journey - Craig McLuckie
-    - The Road to More Usable Kubernetes - Joe Beda
-        - Project first.
-        - Identify personas.
+  - [Steering Committee](https://github.com/kubernetes/steering) ([video](https://www.youtube.com/watch?v=YAzgJRQxsdc&t=169s))
+  - [SIGs and Working Groups](https://github.com/kubernetes/community/blob/master/sig-list.md)
+  - [What is Kubernetes?](https://www.youtube.com/watch?v=cHkXOeP8rQ0) - Brian Grant
+  - The Road Ahead on the Kubernetes Journey - Craig McLuckie
+  - The Road to More Usable Kubernetes - Joe Beda
+    - Project first.
+    - Identify personas.
+
