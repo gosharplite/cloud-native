@@ -11,6 +11,7 @@
 <hr>
 
 - [CloudNativeCon Opening Keynote](https://www.youtube.com/watch?v=Z3aBWkNXnhw) - Dan Kohn
+  - [How do we measure community?](https://schd.ws/hosted_files/kccncna17/e7/Keynote%20-%20Dan%20Kohn%20-%20KCCNC%20NA%202017%20FINAL.pdf)
 
 - Cloud Native
   - [The Linux Foundation](https://www.linuxfoundation.org/)
