@@ -1,4 +1,9 @@
 # Initial interaction
+Certified Kubernetes Administrator ([CKA](https://gist.githubusercontent.com/gosharplite/bff05a6bf8a62d01e9a14c0473ad247c/raw/11924f0d67a62e984f8d9cd855b0257c29589e40/cka.png))
+
+Cloud Native Lead - Steering development direction in the new era of cloud computing.
+
+<hr>
 
 - [Golang 101](https://github.com/gosharplite/golang-101/blob/master/README.md)
 
