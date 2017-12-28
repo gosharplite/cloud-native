@@ -53,6 +53,6 @@
 
 - [7 Ways Kubernetes Avoids an OpenStack-Like Hype Cycle](https://thenewstack.io/7-ways-kubenetes-avoids-openstack-like-hype-cycle/) - Rob Hirschfeld 18Dec'17
 
-- [Principles of Technology Leadership](https://www.evernote.com/shard/s673/sh/0291c9e6-9104-47c4-992e-2481998fd53e/328494e458e2c13a27263025ec3c5431) - Bryan Cantrill, 8Dec'17
-
 - [Meditation Driven Development](https://www.ckwop.me.uk/Meditation-driven-development.html) - A satire, 15Feb'09
+
+- [Principles of Technology Leadership](https://www.evernote.com/shard/s673/sh/0291c9e6-9104-47c4-992e-2481998fd53e/328494e458e2c13a27263025ec3c5431) - Bryan Cantrill, 8Dec'17
