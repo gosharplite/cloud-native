@@ -1,7 +1,7 @@
 # Initial interaction
-- Certified Kubernetes Administrator ([CKA](https://gist.githubusercontent.com/gosharplite/bff05a6bf8a62d01e9a14c0473ad247c/raw/11924f0d67a62e984f8d9cd855b0257c29589e40/cka.png))
-
 - Cloud Native Lead - Steering development direction in the new era of cloud computing.
+
+- Certified Kubernetes Administrator (CKA) - [Tony](https://gist.githubusercontent.com/gosharplite/bff05a6bf8a62d01e9a14c0473ad247c/raw/11924f0d67a62e984f8d9cd855b0257c29589e40/cka.png), [Helen](https://gist.githubusercontent.com/gosharplite/bff05a6bf8a62d01e9a14c0473ad247c/raw/07bbd484f1100cad959c46f2f668669203233f09/cka-helen.jpg)
 
 <hr>
 
