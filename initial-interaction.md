@@ -14,7 +14,6 @@
 <hr>
 
 - [CloudNativeCon Opening Keynote](https://www.youtube.com/watch?v=Z3aBWkNXnhw) ([slides](https://schd.ws/hosted_files/kccncna17/e7/Keynote%20-%20Dan%20Kohn%20-%20KCCNC%20NA%202017%20FINAL.pdf)) - Dan Kohn
-  - [Measuring Your Open Source Program’s Success](https://www.linuxfoundation.org/measuring-your-open-source-program-success/)
 
 - Cloud Native
   - [The Linux Foundation](https://www.linuxfoundation.org/)
