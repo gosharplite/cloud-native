@@ -33,8 +33,7 @@
   - [SIGs and Working Groups](https://github.com/kubernetes/community/blob/master/sig-list.md)
   - [What is Kubernetes?](https://www.youtube.com/watch?v=cHkXOeP8rQ0) ([layers](https://docs.google.com/presentation/d/1oPZ4rznkBe86O4rPwD2CWgqgMuaSXguIBHIE7Y0TKVc/edit#slide=id.g21b1f16809_5_51)) - Brian Grant
   - [Kubernetes Kernels & Distros](https://goo.gl/Qxmn8f) - Tim Hockin, Michael Rubin
-  - [The Road to More Usable Kubernetes](https://www.youtube.com/watch?v=QQsq2Ny5a4A&t=2s) - Joe Beda
-    - [Identify personas](http://slides.eightypercent.net/kubecon-2017/index.html#5)
+  - [The Road to More Usable Kubernetes](https://www.youtube.com/watch?v=QQsq2Ny5a4A&t=2s) ([slides](http://slides.eightypercent.net/kubecon-2017/index.html#5)) - Joe Beda
   - [The Road Ahead on the Kubernetes Journey](https://www.youtube.com/watch?v=3FR82H7NwAw) - Craig McLuckie
 
 <hr>
