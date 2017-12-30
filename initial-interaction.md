@@ -14,6 +14,8 @@
 <hr>
 
 - [CloudNativeCon Opening Keynote](https://www.youtube.com/watch?v=Z3aBWkNXnhw) ([slides](https://schd.ws/hosted_files/kccncna17/e7/Keynote%20-%20Dan%20Kohn%20-%20KCCNC%20NA%202017%20FINAL.pdf)) - Dan Kohn
+  - [The 30 Highest Velocity Open Source Projects](https://www.cncf.io/blog/2017/06/05/30-highest-velocity-open-source-projects/) 5Jun'17
+  - [Trends](https://trends.google.com/trends/explore?date=today%205-y&q=kubernetes)
 
 - Cloud Native
   - [The Linux Foundation](https://www.linuxfoundation.org/)
