@@ -45,8 +45,8 @@
   - OS, VM to container image, k8s.
 
 - DevOps
-  - [Ops: It's everyone's job now](https://goo.gl/aJ9MmD) - 28Jul'17 Charity Majors
-  - [Everyone is not Ops](https://goo.gl/MLKvkC) - 29Jul'17 Cindy Sridharan
+  - [Ops: It's everyone's job now](https://goo.gl/aJ9MmD) - Charity Majors, 28Jul'17
+  - [Everyone is not Ops](https://goo.gl/MLKvkC) - Cindy Sridharan, 29Jul'17
 
 <hr>
 
