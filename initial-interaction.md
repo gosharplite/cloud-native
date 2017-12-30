@@ -30,6 +30,7 @@
 <hr>
   
 - [Kubernetes](https://kubernetes.io/) - [Craig McLuckie, Joe Beda, Brendan Burns](https://twitter.com/jbeda/status/608703174992535552/photo/1)
+
   - [Steering Committee](https://github.com/kubernetes/steering) ([video](https://www.youtube.com/watch?v=YAzgJRQxsdc&t=169s))
   - [SIGs and Working Groups](https://github.com/kubernetes/community/blob/master/sig-list.md)
   - [What is Kubernetes?](https://www.youtube.com/watch?v=cHkXOeP8rQ0) ([layers](https://docs.google.com/presentation/d/1oPZ4rznkBe86O4rPwD2CWgqgMuaSXguIBHIE7Y0TKVc/edit#slide=id.g21b1f16809_5_51)) - Brian Grant
